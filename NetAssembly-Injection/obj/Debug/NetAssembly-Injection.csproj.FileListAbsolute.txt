@@ -1,0 +1,7 @@
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\NetAssembly-Injection\bin\Debug\NetAssembly-Injection.exe.config
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\NetAssembly-Injection\bin\Debug\NetAssembly-Injection.exe
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\NetAssembly-Injection\bin\Debug\NetAssembly-Injection.pdb
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\NetAssembly-Injection\bin\Debug\KatzNetAssembly.exe
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\NetAssembly-Injection\bin\Debug\KatzNetAssembly.pdb
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\NetAssembly-Injection\obj\Debug\NetAssembly-Injection.exe
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\NetAssembly-Injection\obj\Debug\NetAssembly-Injection.pdb

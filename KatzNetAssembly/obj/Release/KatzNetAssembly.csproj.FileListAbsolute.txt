@@ -1,0 +1,5 @@
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\bin\Release\KatzNetAssembly.exe.config
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\bin\Release\KatzNetAssembly.exe
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\bin\Release\KatzNetAssembly.pdb
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\obj\Release\KatzNetAssembly.exe
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\obj\Release\KatzNetAssembly.pdb

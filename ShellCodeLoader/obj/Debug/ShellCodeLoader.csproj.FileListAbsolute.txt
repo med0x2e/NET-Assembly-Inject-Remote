@@ -1,0 +1,6 @@
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\ShellCodeLoader\bin\Debug\ShellCodeLoader.exe.config
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\ShellCodeLoader\bin\Debug\ShellCodeLoader.exe
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\ShellCodeLoader\bin\Debug\ShellCodeLoader.pdb
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\ShellCodeLoader\obj\Debug\ShellCodeLoader.exe
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\ShellCodeLoader\obj\Debug\ShellCodeLoader.pdb
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\ShellCodeLoader\obj\Debug\ShellCodeLoader.csprojResolveAssemblyReference.cache

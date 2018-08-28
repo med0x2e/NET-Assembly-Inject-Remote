@@ -1,0 +1,6 @@
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\bin\Debug\KatzNetAssembly.exe.config
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\bin\Debug\KatzNetAssembly.exe
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\bin\Debug\KatzNetAssembly.pdb
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\obj\Debug\KatzNetAssembly.csprojResolveAssemblyReference.cache
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\obj\Debug\KatzNetAssembly.exe
+C:\Users\med\Desktop\C# Based Tools\Developed-Samples\NetAssembly-Injection\KatzNetAssembly\obj\Debug\KatzNetAssembly.pdb
